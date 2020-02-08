@@ -1,0 +1,4 @@
+{
+  "MONGO_URI": "mongodb+srv://hk540539:hk540539@mernpartyapp-lox6o.mongodb.net/test?retryWrites=true&w=majority",
+  "JWT_SECRET": "mymernappsecret"
+}
